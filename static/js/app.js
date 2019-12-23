@@ -5,7 +5,7 @@
 */
 
 //  Global Variables
-var url = `http://127.0.0.1:8000/data/samples.json`;
+var url = `./data/samples.json`;
 var samples_data = null;    // Entire contents of samples.json
 
 // Reads the .json file and initiates creation of the page.
